@@ -1,7 +1,6 @@
 ### Hi, I'm Bely Mendoza 👋
-
 <p align="center">
-  <img >
+  <img src="https://www.canva.com/design/DAFr2aCL594/ESQcy7HIJdfsilsZTjr3-A/edit" height="230"/>
 </p>
 
 <!--
