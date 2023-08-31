@@ -1,7 +1,6 @@
 ### Hi, I'm Bely Mendoza 👋
-<p align="center">
-  <img src="https://www.canva.com/design/DAFr2aCL594/ESQcy7HIJdfsilsZTjr3-A/edit" height="230"/>
-</p>
+<p align="center"/>
+<img src="https://www.canva.com/design/DAFr2aCL594/ESQcy7HIJdfsilsZTjr3-A/edit" height="230"/>
 
 <!--
 **BelyMendoza/BelyMendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
