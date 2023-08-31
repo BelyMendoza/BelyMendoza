@@ -1,6 +1,6 @@
 ### Hi, I'm Bely Mendoza 👋
 <p align="center"/>
-<img src="https://www.canva.com/design/DAFr2aCL594/ESQcy7HIJdfsilsZTjr3-A/edit" height="230"/>
+<img src="file:///C:/Users/BELHY/Downloads/Portada%20de%20Facebook%20Apertura%20Negocio%20Retro%20Azul%20(1).png" height="230"/>
 
 <!--
 **BelyMendoza/BelyMendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
